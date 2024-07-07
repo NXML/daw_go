@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAWGO - DRAFT</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on DAWGO - DRAFT</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 07 Jul 2024 18:45:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post2</title>
+      <link>http://localhost:1313/posts/my-first-post2/</link>
+      <pubDate>Sun, 07 Jul 2024 18:45:58 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus turpis quis nunc facilisis, a lacinia libero laoreet. Nulla facilisi. Curabitur et ipsum ut dui vulputate interdum sit amet nec elit. Integer sed arcu ac mi egestas facilisis. In vehicula facilisis dictum. Sed suscipit eros sit amet erat auctor, non ullamcorper libero sagittis.&#xA;Mauris blandit justo id velit</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 07 Jul 2024 18:45:08 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
